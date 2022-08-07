@@ -1,5 +1,5 @@
 # Module_3_Challenge
-JavaScript Challenge: Password Generator
+JavaScript Challenge: Password Generator - "G00dP@ssWORD" 
 
 # User_Story
 AS AN employee with access to sensitive data
@@ -31,6 +31,12 @@ GIVEN I need a new, secure password
     THEN the password is either displayed in an alert or written to the page
 
 
-https://kamipacanos.github.io/Module_3_Challenge-/
+# Live Link 
+
+https://kamipacanos.github.io/G00dP-ssWORD/
+
+# Website Screenshot 
+
+![](goodpassword.png) 
 
 
